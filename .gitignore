@@ -1,0 +1,22 @@
+# Agent memory (session-specific, not for participants)
+.agent-memory/
+
+# Plugin config (local installation)
+.claude-plugin/
+!.claude-plugin/
+!.claude-plugin/plugin.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS/system junk
+bash.exe.stackdump
+Thumbs.db
+.DS_Store
+
+# Temporary files
+Last_session.txt
+dynamic_workshop.txt
+files/
