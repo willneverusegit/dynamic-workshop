@@ -14,6 +14,7 @@ Einen praxisnahen, demo-lastigen Workshop in 3 aufeinander aufbauenden Sessions 
 - **Session 3 — Advanced:** Agents, Multi-Model, Security, Automation
 - Zielgruppe: 3 erfahrene Entwickler aus Physical Security (Zutrittskontrolle, Alarmsysteme)
 - Durchgaengige Security-Analogien als didaktisches Mittel
+- **Einstieg immer visuell:** Sessions mit PowerPoint-Praesentation (claude-code-workshop.pptx) starten, dann in Text-Module vertiefen. Teilnehmer wollen sich zuerst ein Bild machen, nicht gleich mit Text ueberflutet werden.
 
 ## Regeln
 
